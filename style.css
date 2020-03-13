@@ -1,0 +1,35 @@
+body {
+    margin: 10px;
+    font-family: "Trebuchet MS", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13px;
+}
+
+td{
+    padding-right: 10px;
+}
+
+form{
+    width : 525px;
+    border: 1px dotted black;
+}
+
+.tableResult{
+    width: 540px;
+    margin-top: 10px;
+}
+
+.separation {
+    margin-top: 10px;
+}
+
+.error, .netmask {
+    color: red;
+}
+
+.ipformat{
+    color: blue;
+}
+
+.class{
+    color :green;
+}
